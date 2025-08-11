@@ -5,7 +5,7 @@
 ## 🌐 Main Interface
 
 Access the subscription links through the main UI:  
-🔗 [https://itsyebekhe.github.io/PSG/](https://itsyebekhe.github.io/PSG/)
+🔗 [https://mram-dev.github.io/PSG/](https://mram-dev.github.io/PSG/)
 
 ## 📦 Features
 
